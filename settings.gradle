@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "csc250-spring21-multiscreenAndroid"
